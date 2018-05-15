@@ -14,8 +14,11 @@ A list of podcast I follow each day while commuting to work. They range between 
 
 ## [Anatomy of Next](https://foundersfund.com/anatomy-of-next/)
 **Description:** Debating the future of humankind mingled with technology. No dystopia allowed.
+
 **Feed:** https://feeds.soundcloud.com/users/soundcloud:users:220400255/sounds.rss
+
 **Language:** English
+
 **Subjects:** Technology
 
 
