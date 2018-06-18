@@ -163,6 +163,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Subjects:** Technology
 
 
+## [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
+**Description:** The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails,open source software, and the programming profession.
+
+**Feed:** http://feeds.5by5.tv/rubyonrails
+
+**Language:** English
+
+**Subjects:** Technology
+
+
 ## [MS Dev Show](https://msdevshow.com/)
 **Description:** A NEW podcast for Microsoft developers covering topics such as Azure/cloud, Windows, Windows Phone, .NET, Visual Studio, and more! 
 
@@ -301,6 +311,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Language:** English
 
 **Subjects:** Productivity, Health
+
+
+## [The Ruby Rogues](https://devchat.tv/ruby-rogues)
+**Description:** A weekly discussion by Ruby developers about programming, life and careers.
+
+**Feed:** http://feeds.feedwrench.com/RubyRogues.rss
+
+**Language:** English
+
+**Subjects:** Technology
 
 
 ## [The Tim Ferriss Show](https://tim.blog/podcast/)
