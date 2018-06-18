@@ -42,6 +42,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Business, Careers, Training, Marketing, Personal Development
 
 
+## [Coding Blocks](https://www.codingblocks.net/)
+**Description:** Patterns, Architecture, Best Practices, Tips and Tricks for Software, Database, and Web Developers / Engineers.
+
+**Feed:** http://www.codingblocks.net/podcast-feed.xml
+
+**Language:** English
+
+**Subjects:** Technology, Education
+
+
 ## [Darknet Diaries](https://darknetdiaries.com/)
 **Description:** True stories from the dark side of the Internet.
 
