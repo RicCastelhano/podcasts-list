@@ -82,6 +82,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Business, Education
 
 
+## [Full Stack Radio](http://www.fullstackradio.com/)
+**Description:** A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
+
+**Feed:** https://rss.simplecast.com/podcasts/279/rss
+
+**Language:** English
+
+**Subjects:** Technology
+
+
 ## [GTD](https://gettingthingsdone.com/podcasts/)
 **Description:** Our GTD podcasts are here to support you at every stage of your GTD practice. You will hear interviews with people from all walks of life about their journey with GTD, from beginners to those who have been at it for years. The podcasts include personal and professional stories, as well as practical tips about GTD systems for desktop and mobile, using apps and paper. Start listening now and you'll be well on your way to stress-free productivity.
 
