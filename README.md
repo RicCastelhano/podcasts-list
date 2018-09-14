@@ -62,6 +62,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Technology, Society & Culture
 
 
+## [Developer Tea](https://spec.fm/podcasts/developer-tea/)
+**Description:** A podcast for developers designed to fit inside your tea break.
+
+**Feed:** http://feeds.feedburner.com/developertea
+
+**Language:** English
+
+**Subjects:** Technology, Business & Career
+
+
 ## [Dov Baron's Leadership and Loyalty Tips for Executives](http://fullmontyleadership.com/)
 **Description:** Leadership and Loyalty Show for Fortune 500 Executives, Family Businesses, Leadership Speaker-Consultant, Business Management, Human Resources, Millennial Generation Leaders.
 
@@ -112,6 +122,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Technology
 
 
+## [How To Be Awesome At Your Job](https://awesomeatyourjob.com/podcast/)
+**Description:** This Podcast Will Help You Flourish At Work. Each week, I grill thought-leaders and results-getters to discover specific, actionable insights that boost work performance.
+
+**Feed:** http://awesomeatyourjob.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Business, Health and Education
+
+
 ## [Hipsters Ponto Tech](https://hipsters.tech/)
 **Description:** Heated debates on startups, programming, ux, gadgets and technology novelties.
 
@@ -140,6 +160,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Language:** English
 
 **Subjects:** Technology
+
+
+## [Inspiração para uma Vida Mágica](https://player.fm/series/inspirao-para-uma-vida-mgica-podcast)
+**Description:** Este é o Inspiração para uma Vida Mágica, o podcast de desenvolvimento pessoal com Mikaela Övén e Pedro Vieira. A Mia e o Pedro partilham uma paixão pelo desenvolvimento pessoal e estas são as suas conversas. Relaxa, ouve e inspira-te. Que se faça magia.
+
+**Feed:** http://feeds.soundcloud.com/users/soundcloud:users:338497549/sounds.rss
+
+**Language:** Portuguese
+
+**Subjects:** Education
 
 
 ## [Leaders in the Trenches](https://www.genehammett.com/category/leaders-in-the-trenches/)
@@ -171,6 +201,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Language:** English
 
 **Subjects:** Technology
+
+
+## [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
+**Description:** A daily podcast for Scrum Masters and Agile Coaches.
+
+**Feed:** http://scrummastertoolbox.libsyn.com/rss?utm_source=SMTP_site&utm_medium=sidebar
+
+**Language:** English
+
+**Subjects:** Technology and Business
 
 
 ## [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
@@ -331,6 +371,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Language:** English
 
 **Subjects:** Technology
+
+
+## [The School of Greatness](https://lewishowes.com/blog/)
+**Description:** DREAM BIGGER, LIVE BETTER, MAKE AN IMPACT.
+
+**Feed:** https://lewishowes.com/feed/podcast/
+
+**Language:** English
+
+**Subjects:** Health, Business, Sports and Recreation
 
 
 ## [The Tim Ferriss Show](https://tim.blog/podcast/)
