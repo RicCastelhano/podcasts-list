@@ -172,6 +172,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Education, Business, Health
 
 
+## [Inside Intercom](https://www.intercom.com/blog/category/podcast/)
+**Description:** Conversations with practitioners from the worlds of product management, design, startups and marketing.
+
+**Feed:** https://rss.art19.com/inside-intercom
+
+**Language:** English
+
+**Subjects:** Technology
+
+
 ## [Inspiração para uma Vida Mágica](https://player.fm/series/inspirao-para-uma-vida-mgica-podcast)
 **Description:** Este é o Inspiração para uma Vida Mágica, o podcast de desenvolvimento pessoal com Mikaela Övén e Pedro Vieira. A Mia e o Pedro partilham uma paixão pelo desenvolvimento pessoal e estas são as suas conversas. Relaxa, ouve e inspira-te. Que se faça magia.
 
