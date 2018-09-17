@@ -162,6 +162,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Technology
 
 
+## [Impact Theory](https://impacttheory.com/)
+**Description:** Impact Theory™ is a weekly interview show that explores the mindsets of the world’s highest achievers to learn their secrets to success. Hosted by Quest Nutrition co-founder Tom Bilyeu, Impact Theory is designed to give people the tools and knowledge they need to unlock their potential and impact the world. Subscribe for new episodes every Tuesday.
+
+**Feed:** https://impacttheory.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Education, Business, Health
+
+
 ## [Inspiração para uma Vida Mágica](https://player.fm/series/inspirao-para-uma-vida-mgica-podcast)
 **Description:** Este é o Inspiração para uma Vida Mágica, o podcast de desenvolvimento pessoal com Mikaela Övén e Pedro Vieira. A Mia e o Pedro partilham uma paixão pelo desenvolvimento pessoal e estas são as suas conversas. Relaxa, ouve e inspira-te. Que se faça magia.
 
@@ -201,6 +211,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Language:** English
 
 **Subjects:** Technology
+
+
+## [Product People](http://www.productpeople.tv/)
+**Description:** A podcast about great products and the people who make them.
+
+**Feed:** https://feeds.transistor.fm/product-people
+
+**Language:** English
+
+**Subjects:** Business
 
 
 ## [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
@@ -333,6 +353,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Subjects:** Technology
 
 
+## [The Kevin Rose Show](https://www.kevinrose.com/)
+**Description:** Kevin interviews authors, technologists, scientists, meditators, self-experimenters, and productivity hackers to explore how to reach peak personal and professional performance while living a minimal and balanced life.
+
+**Feed:** https://rss.simplecast.com/podcasts/3408/rss
+
+**Language:** English
+
+**Subjects:** Business, Management, Marketing, Investing, Technology
+
+
 ## [The Look & Sound of Leadership](http://essentialcomm.com/podcast)
 **Description:** An ongoing series of Executive Coaching Tips designed to help you be perceived in the workplace the way you want to be perceived.
 
@@ -401,3 +431,13 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Language:** English
 
 **Subjects:** Business, Management, Personal Development
+
+
+## [This is Product Management](https://www.thisisproductmanagement.com/)
+**Description:** "This is Product Management” interviews brilliant minds across the numerous disciplines that fuel the modern product manager. Episodes span from arts to science, tactics to strategies, confessions to professions. Take a deep dive into user experience, statistics, innovation, differentiation, design, development, metrics, and more with the latest podcast for product managers.
+
+**Feed:** http://alphaux.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Product Management, UX, Business, Technology, Education
