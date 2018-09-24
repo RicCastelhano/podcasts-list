@@ -92,6 +92,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Business, Education
 
 
+## [Exponential Wisdom](http://podcast.diamandis.com/)
+**Description:** Peter Diamandis and Dan Sullivan discuss how exponential technologies are creating massive opportunities for entrepreneurs all over the world and the impact of hyperconnectivity on global innovation.
+
+**Feed:** http://podcast.diamandis.com/feed/podcast/
+
+**Language:** English
+
+**Subjects:** Business, Technology
+
+
 ## [Full Stack Radio](http://www.fullstackradio.com/)
 **Description:** A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
 
