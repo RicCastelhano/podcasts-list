@@ -52,6 +52,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Technology, Education
 
 
+## [Dan Carlin's Hardcore History](https://www.dancarlin.com/)
+**Description:** In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.
+
+**Feed:** http://feeds.feedburner.com/dancarlin/history
+
+**Language:** English
+
+**Subjects:** History
+
+
 ## [Darknet Diaries](https://darknetdiaries.com/)
 **Description:** True stories from the dark side of the Internet.
 
