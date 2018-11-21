@@ -383,6 +383,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Subjects:** Technology
 
 
+## [The Brendon Show](https://brendon.com/podcast/)
+**Description:** Go behind the scenes with Brendon Burchard, the world’s leading high performance coach and one of the Top 100 Most Followed Public Figures in the world, as he speaks to 20,000 people in arenas, coaches celebrities, helps his students, and reaches millions of people every week with his message for how we can all live, love and matter. Every week, Brendon shares what he’s struggling with, working on and marching towards – and how we can all live an extraordinary life. This is an intimate and inspiring look into the life and strategies of one of the most watched, followed and quoted personal development trainers in history.
+
+**Feed:** https://brendonburchard.libsyn.com/ress
+
+**Language:** English
+
+**Subjects:** Self-Help
+
+
 ## [The Kevin Rose Show](https://www.kevinrose.com/)
 **Description:** Kevin interviews authors, technologists, scientists, meditators, self-experimenters, and productivity hackers to explore how to reach peak personal and professional performance while living a minimal and balanced life.
 
