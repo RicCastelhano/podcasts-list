@@ -383,6 +383,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Subjects:** Technology
 
 
+## [Speaking of Jung](https://speakingofjung.squarespace.com/podcast?format=rss)
+**Description:** A unique podcast exploring the life and work of C.G.Jung through in-depth discussions with Jungian analysts.
+
+**Feed:** https://speakingofjung.squarespace.com/podcast?format=rss
+
+**Language:** English
+
+**Subjects:** Psychology
+
+
 ## [StarTalk Radio](http://startalkradio.net)
 **Description:** Science meets comedy and pop culture on StarTalk Radio! Astrophysicist and Hayden Planetarium director Neil deGrasse Tyson, his comic co-hosts, guest celebrities and scientists discuss astronomy, physics, and everything else about life in the universe.
 
@@ -401,6 +411,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Language:** English
 
 **Subjects:** Technology, Tech News, Careers
+
+
+## [Technovation with Peter High (CIO, CTO, CDO, CXO interviews)](https://www.metisstrategy.com/technovation-podcast/)
+**Description:** Weekly conversations with top executives and thought leaders at the intersection of business, technology, and innovation. Each episode of Technovation explores the technology trends that are transforming business, and the leaders driving digital change inside their organizations. Produced by Metis Strategy and hosted by firm President Peter High, Technovation is the premier podcast for IT and technology professionals with the largest collection of interviews with elite CIOs, CTOs, and CDOs.
+
+**Feed:** https://www.metisstrategy.com/feed/podcast/
+
+**Language:** English
+
+**Subjects:** Business, Technology, Innovation
 
 
 ## [EntreLeadership](https://www.entreleadership.com/blog/podcast)
