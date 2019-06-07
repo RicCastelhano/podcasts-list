@@ -423,6 +423,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Subjects:** Business, Technology, Innovation
 
 
+## [The CTO Advisor](https://www.thectoadvisor.com/podcast/)
+**Description:** A conversation geared toward the CTO or Infrastructure Architect. Shows topics focus on future technologies and keeping today's infrastructure in-line with business requirements.
+
+**Feed:** https://www.thectoadvisor.com/podcast?format=rss
+
+**Language:** English
+
+**Subjects:** Technology, Innovation
+
+
 ## [EntreLeadership](https://www.entreleadership.com/blog/podcast)
 **Description:** Hosted by Ken Coleman, the EntreLeadership Podcast features lively discussions and tips on leadership and business by some of the top minds in the business, like Mark Cuban, Seth Godin, Jim Collins and Simon Sinek.
 
