@@ -112,6 +112,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Business, Careers, Personal Development
 
 
+## [Engineering People](https://teamtreehouse.com)
+**Description:** Our mission is to equip and inspire leaders to accomplish what God has inspired in them.  There comes a point in life where one desires to live a life of significance.  The Eternal Leadership podcast brings you expert thought leaders on life, business, relationships and faith to provide clarity and solutions to the complex issues leaders face every day!
+
+**Feed:** https://engineeringpeople.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Technology
+
+
 ## [Eternal Leadership](http://eternalleadership.com/media/podcast/eternal-leadership-podcast/)
 **Description:** Our mission is to equip and inspire leaders to accomplish what God has inspired in them.  There comes a point in life where one desires to live a life of significance.  The Eternal Leadership podcast brings you expert thought leaders on life, business, relationships and faith to provide clarity and solutions to the complex issues leaders face every day!
 
