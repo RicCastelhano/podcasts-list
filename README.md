@@ -62,6 +62,16 @@ A list of podcast I follow each day while commuting to work. They range between 
 **Subjects:** Technology, Education
 
 
+## [CTO Think](https://www.ctothink.com)
+**Description:** A pragmatic podcast about leadership, product dev, and tech decisions between two recovering Chief Technology Officers.
+
+**Feed:** https://feeds.transistor.fm/cto-think
+
+**Language:** English
+
+**Subjects:** Business, Careers
+
+
 ## [Dan Carlin's Hardcore History](https://www.dancarlin.com/)
 **Description:** In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.
 
