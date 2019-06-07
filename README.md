@@ -253,6 +253,16 @@ Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, 
 **Subjects:** Business, Management, Leadership
 
 
+## [Making Sense with Sam Harris](http://www.samharris.org)
+**Description:** Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events.
+
+**Feed:** http://wakingup.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Medicine, Culture, Spirituality
+
+
 ## [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
 **Description:** The only place to stay up to date on everything going on in the Microsoft Intelligent Cloud world including Azure and Office 365. 
 
