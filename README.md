@@ -14,6 +14,17 @@ A list of podcast I follow each day while commuting to work. They range between 
 
 ___
 
+## [Agile Toolkit Podcast](https://agiletoolkit.libsyn.com/)
+**Description:** Broadcasting conversations about Agile Software Development, Agile Methodologies, techniques and tools.
+
+**Feed:** http://agiletoolkit.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Technology, IT Management
+
+___
+
 ## [Anatomy of Next](https://foundersfund.com/anatomy-of-next/)
 **Description:** Debating the future of humankind mingled with technology. No dystopia allowed.
 
@@ -91,6 +102,17 @@ ___
 
 ___
 
+## [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+**Description:** Stories about the people who transform technology from the command line up. An original podcast from Red Hat.
+
+**Feed:** https://feeds.pacific-content.com/commandlineheroes
+
+**Language:** English
+
+**Subjects:** Technology
+
+___
+
 ## [CTO Think](https://www.ctothink.com)
 **Description:** A pragmatic podcast about leadership, product dev, and tech decisions between two recovering Chief Technology Officers.
 
@@ -99,17 +121,6 @@ ___
 **Language:** English
 
 **Subjects:** Business, Careers
-
-___
-
-## [Dan Carlin's Hardcore History](https://www.dancarlin.com/)
-**Description:** In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.
-
-**Feed:** http://feeds.feedburner.com/dancarlin/history
-
-**Language:** English
-
-**Subjects:** History
 
 ___
 
@@ -190,17 +201,6 @@ ___
 
 ___
 
-## [GTD](https://gettingthingsdone.com/podcasts/)
-**Description:** Our GTD podcasts are here to support you at every stage of your GTD practice. You will hear interviews with people from all walks of life about their journey with GTD, from beginners to those who have been at it for years. The podcasts include personal and professional stories, as well as practical tips about GTD systems for desktop and mobile, using apps and paper. Start listening now and you'll be well on your way to stress-free productivity.
-
-**Feed:** https://soundcloud.com/user-697578497
-
-**Language:** English
-
-**Subjects:** Business, Productivity
-
-___
-
 ## [Google Cloud Platform Podcast](https://www.gcppodcast.com/)
 **Description:** The Google Cloud Platform Podcast, coming to you every week, discussing everything from Google Cloud Platform from App Engine to Big Query.
 
@@ -278,6 +278,17 @@ ___
 
 ___
 
+## [Jocko Podcast](https://jockopodcast.com/)
+**Description:** Retired Navy SEAL, Jocko Willink and Director, Echo Charles discuss discipline and leadership in business, war,relationships and everyday life.
+
+**Feed:** http://jockopodcast.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Business, Management, Leadership
+
+___
+
 ## [Leaders in the Trenches](https://www.genehammett.com/category/leaders-in-the-trenches/)
 **Description:** Develop leadership skills and understand leadership development from expert interviews with transformational leaders. Leaders in the Trenches gives raw discussions that dive deep into new strategies to accelerate your company growth and your leadership abilities. Get interviews from Fortune 100 leaders to experts in various domains of marketing, sales, and leadership that allows you to explode your growth. Learn from their failures and discover the finer elements of significance that will impact your company.
 Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, Greg McKeown, and with the host Gene Hammett.
@@ -298,6 +309,17 @@ ___
 **Language:** English
 
 **Subjects:** Medicine, Culture, Spirituality
+
+___
+
+## [Manager Tools](http://www.manager-tools.com)
+**Description:** Tired of management theory? Want to learn specific skills to help improve your management performance? Then Manager Tools is the podcast for you! Manager Tools is a weekly business podcast focused on helping professionals become more effective managers and leaders. Each week, we discuss specific actions for professionals to take to achieve their desired management and career objectives. Manager Tools won Best Business Podcast Award in 2006, 2007, 2008, and 2012 as well as the People's Choice Award in 2008. Go to http://www.manager-tools.com/recommendations to read what others are saying about the impact Manager Tools has had on their careers and lives.
+
+**Feed:** https://files.manager-tools.com/files/public/feeds/manager-tools-podcasts.xml
+
+**Language:** English
+
+**Subjects:** Business, Management
 
 ___
 
@@ -323,14 +345,14 @@ ___
 
 ___
 
-## [Product People](http://www.productpeople.tv/)
-**Description:** A podcast about great products and the people who make them.
+## [MS Dev Show](https://msdevshow.com/)
+**Description:** THE podcast for Microsoft developers. Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Visual Studio, and cross-platform development using the Microsoft platform.
 
-**Feed:** https://feeds.transistor.fm/product-people
+**Feed:** http://msdevshow.libsyn.com/rss
 
 **Language:** English
 
-**Subjects:** Business
+**Subjects:** Technology
 
 ___
 
