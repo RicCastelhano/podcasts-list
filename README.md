@@ -356,6 +356,17 @@ ___
 
 ___
 
+## [Nonviolent Communication - Marshall Rosenberg's NVC Training](https://www.cnvc.org/learn-nvc/what-is-nvc)
+**Description:** Nonviolent communication is a process that consists of an intention to contribute to our own well being, and the well being of others, compassionately. So that whatever we do is done willingly, not done out of guilt, or shame, or fear of punishment, or trying to buy love, by submitting to what we think others expect us to do. That we give solely out of the joy that comes naturally from contributing to life. Our own life and the lives of others.
+
+**Feed:** http://anchor.fm/s/1373b44c/podcast/rss
+
+**Language:** English
+
+**Subjects:** Communication, Personal Development, Leadership
+
+___
+
 ## [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
 **Description:** A daily podcast for Scrum Masters and Agile Coaches.
 
@@ -364,17 +375,6 @@ ___
 **Language:** English
 
 **Subjects:** Technology and Business
-
-___
-
-## [MS Dev Show](https://msdevshow.com/)
-**Description:** A NEW podcast for Microsoft developers covering topics such as Azure/cloud, Windows, Windows Phone, .NET, Visual Studio, and more! 
-
-**Feed:** https://msdevshow.libsyn.com/rss
-
-**Language:** English
-
-**Subjects:** Technology
 
 ___
 
