@@ -146,6 +146,17 @@ ___
 
 ___
 
+## [Developing Leadership](https://developingleadership.podbean.com)
+**Description:** Follow Jason Warner (MD at Redpoint Ventures and former CTO of GitHub) and Eiso Kant (Founder of Athenian) as they chat about the biggest lessons they've learned about Engineering Leadership throughout the years.
+
+**Feed:** https://feed.podbean.com/developingleadership/feed.xml
+
+**Language:** English
+
+**Subjects:** Technology, Business & Career
+
+___
+
 ## [Dov Baron's Leadership and Loyalty Tips for Executives](http://fullmontyleadership.com/)
 **Description:** Leadership and Loyalty Show for Fortune 500 Executives, Family Businesses, Leadership Speaker-Consultant, Business Management, Human Resources, Millennial Generation Leaders.
 
@@ -294,6 +305,17 @@ ___
 Guests include Daymond John, Les Brown, Michael Gerber, Jonah Berger, Bob Berg, Greg McKeown, and with the host Gene Hammett.
 
 **Feed:** https://leaders.libsyn.com/rss
+
+**Language:** English
+
+**Subjects:** Business, Management, Leadership
+
+___
+
+## [Love in Action with Marcel Schwantes](https://www.marcelschwantes.com)
+**Description:** Join host Marcel Schwantes and the world's top business thought-leaders, authors, executives, and leadership experts as they reimagine the conditions necessary for creating caring, humane, and human-centered workplaces that result in high-performing cultures and bottom-line impact. The future of leadership is "love in action." Join the movement!
+
+**Feed:** https://feeds.megaphone.fm/loveinaction
 
 **Language:** English
 
