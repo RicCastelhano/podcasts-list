@@ -1,7 +1,11 @@
 # Podcasts I follow
-A list of podcast I follow each day while commuting to work. They range between IT, Personal Development, Leadership and Science.
+The list of podcasts I follow while commuting to work, jogging, walking or simply just enjoying a good cup of coffee.
 
-# List
+While the topics range between IT, Personal Development, Leadership, Sports and Science, this list it-self will change, as my interests also change accordingly the flow of Life.
+
+If you go through this git history, you can find many more interesting podcasts. The full list is bigger then what is displayed in this commit.
+
+# My List
 
 ## [Agile for Humans](https://ryanripley.com/agile-for-humans/)
 **Description:** A weekly podcast dedicated to the individuals and interactions that make agile work.
