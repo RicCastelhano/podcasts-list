@@ -62,6 +62,17 @@ ___
 
 ___
 
+## [goto;](https://developingleadership.podbean.com)
+**Description:** The GOTO podcast seeks out the brightest and boldest ideas from language creators and the world's leading experts in software development in the form of interviews and conference talks. Tune in to get the inspiration you need to bring in new technologies or gain extra evidence to support your software development plan.
+
+**Feed:** https://feeds.buzzsprout.com/1714721.rss
+
+**Language:** English
+
+**Subjects:** Technology, News
+
+___
+
 ## [Huberman Lab](https://hubermanlab.com/)
 **Description:** The Huberman Lab Podcast was started in January 2021 by Dr. Andrew Huberman, a professor of neurobiology and ophthalmology at Stanford School of Medicine. The podcast discusses neuroscience: how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health. It’s separate from Dr. Huberman’s teaching and research roles at Stanford.
 
