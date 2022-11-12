@@ -148,15 +148,6 @@ ___
 
 **Subjects:** Careers, Leadership, Personal Development
 
-___
 
-## [The School of Greatness](https://lewishowes.com/blog/)
-**Description:** DREAM BIGGER, LIVE BETTER, MAKE AN IMPACT.
-
-**Feed:** https://lewishowes.com/feed/podcast/
-
-**Language:** English
-
-**Subjects:** Health, Business, Sports and Recreation
 
 
