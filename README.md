@@ -7,6 +7,16 @@ If you go through this git history, you can find many more interesting podcasts.
 
 # My List
 
+## [A Bit oof Optimism](https://simonsinek.com/podcast/)
+**Description:** An inspiring podcast with Simon Sinek.
+
+**Feed:** https://open.spotify.com/show/0wjYlCNxLDgFUUjZMaP6Dx?si=8c7225bb584b4577
+
+**Language:** English
+
+**Subjects:** Business, Careers, Management, Leadership, Life
+
+___
 ## [Caffeine for the Soul with Michael Neill](https://www.michaelneill.org/podcast/)
 **Description:** Espresso-sized podcasts to wake you up to your deepest potential.
 
@@ -73,6 +83,17 @@ ___
 
 ___
 
+## [Feel Better Live More](https://podcasts.apple.com/gb/podcast/feel-better-live-more-with-dr-rangan-chatterjee/id1333552422)
+**Description:** “Health has become overcomplicated. I aim to simplify it”
+
+**Feed:** https://podcasts.apple.com/gb/podcast/feel-better-live-more-with-dr-rangan-chatterjee/
+
+**Language:** English
+
+**Subjects:** Health, Fitness
+
+___
+
 ## [Huberman Lab](https://hubermanlab.com/)
 **Description:** The Huberman Lab Podcast was started in January 2021 by Dr. Andrew Huberman, a professor of neurobiology and ophthalmology at Stanford School of Medicine. The podcast discusses neuroscience: how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health. It’s separate from Dr. Huberman’s teaching and research roles at Stanford.
 
@@ -103,6 +124,17 @@ ___
 **Language:** English
 
 **Subjects:** Communication, Personal Development, Leadership
+
+___
+
+## [O CEO é o limite](https://open.spotify.com/show/2651LnjLgSUEByBq0YBrsP)
+**Description:** O podcast de liderança e carreira do Expresso. Todas as semanas a jornalista Cátia Mateus mostra-lhe quem são, como começaram e o que fizeram para chegar ao topo os gestores portugueses que marcaram o passado, os que dirigem a atualidade e os que prometem moldar o futuro. Histórias inspiradoras, contadas na primeira pessoa, por quem ousa fazer acontecer.
+
+**Feed:** https://open.spotify.com/show/2651LnjLgSUEByBq0YBrsP
+
+**Language:** Portuguese
+
+**Subjects:** Business
 
 ___
 
@@ -148,6 +180,24 @@ ___
 
 **Subjects:** Careers, Leadership, Personal Development
 
+___
 
+## [Think Fast Talk Smart](https://www.gsb.stanford.edu/business-podcasts/think-fast-talk-smart-podcast)
+**Description:** Join Matt Abrahams, a lecturer of Strategic Communication at Stanford Graduate School of Business, as he sits down with experts in the field to discuss real-world challenges.
 
+**Feed:** https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo
 
+**Language:** English
+
+**Subjects:** Careers, Leadership, Personal Development
+
+___
+
+## [Your Brain at Work](https://neuroleadership.com/podcast/)
+**Description:** In organizations around the world, leaders face urgent issues: a crisis in employee engagement, the need to make workforces more diverse, and the challenge of making workplaces feel human in an era of increasing dependence on technology. At the NeuroLeadership Institute, we believe brain science can help provide solutions.
+
+**Feed:** https://feeds.simplecast.com/cDih9U4p
+
+**Language:** English
+
+**Subjects:** Business, Science, Social Sciences, Education
