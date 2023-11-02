@@ -7,7 +7,7 @@ If you go through this git history, you can find many more interesting podcasts.
 
 # My List
 
-## [A Bit oof Optimism](https://simonsinek.com/podcast/)
+## [A Bit of Optimism](https://simonsinek.com/podcast/)
 **Description:** An inspiring podcast with Simon Sinek.
 
 **Feed:** https://open.spotify.com/show/0wjYlCNxLDgFUUjZMaP6Dx?si=8c7225bb584b4577
