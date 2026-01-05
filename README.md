@@ -154,6 +154,14 @@ ___
 **Subjects:** Careers, Leadership
 ___
 
+## [Media Odyssey](https://open.spotify.com/show/0o2GSN4m53vXdsnZ9umMxb)
+**Description:** Each week, two of media’s most influential thinkers, Evan Shapiro & Marion Ranchet, take on the hottest media topics with their hottest takes, helping their audience chart a course through the maelstrom that is today’s Media Odyssey.
+
+**Language:** English
+
+**Subjects:** Media, Culture
+___
+
 ## [Modern CTO](https://open.spotify.com/show/62mwuSUjmcRQ9KAsPlkrKT)
 **Description:** Modern CTO is the #1 place where technology leaders and CTOs hang out. We live to bring tech leaders value. Listen in on our fun, intelligent and engaging podcast. We hang out with interesting and popular CTOs in Aerospace, Artificial Intelligence, Robotics + Many more industries. 
 
